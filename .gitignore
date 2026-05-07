@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+_doc_images/
+_verify_build/
+_verify_build_z10/
