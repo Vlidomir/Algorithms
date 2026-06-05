@@ -6,3 +6,5 @@ obj/
 _doc_images/
 _verify_build/
 _verify_build_z10/
+resume_images/
+build_resume.ps1
